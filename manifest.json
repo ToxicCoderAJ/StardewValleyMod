@@ -1,0 +1,10 @@
+{
+  "Name": "StrardewValley_FirstMod",
+  "Author": "Andrew johsnon",
+  "Version": "1.0.0",
+  "Description": "Going to be a Numpad mod and my very first real mod",
+  "UniqueID": "Andew.StrardewValley_FirstMod",
+  "EntryDll": "StrardewValley_FirstMod.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": ["github:0"]
+}
